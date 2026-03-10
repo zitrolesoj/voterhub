@@ -1,0 +1,7 @@
+{
+  "name": "Voter Info Hub",
+  "description": "Find your polling places and view your local election ballot items based on your location.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
